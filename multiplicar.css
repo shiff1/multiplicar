@@ -165,3 +165,29 @@ body {
   transform: scale(1.03);
 }
 
+/* TÍTULO */
+.titulo {
+  color: white;
+  font-size: 34px;
+  margin: 0;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* INSTRUCCIONES */
+.instruccion {
+  color: #dbe6f5;
+  font-size: 16px;
+  margin: 4px 0 8px;
+  text-align: center;
+}
+
+/* MENSAJE DE AYUDA */
+.ayuda {
+  color: #ffd9a0;
+  font-size: 14px;
+  margin: 10px 0 0;
+  text-align: center;
+  font-style: italic;
+}
+
+
